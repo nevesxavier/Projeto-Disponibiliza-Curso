@@ -1,0 +1,11 @@
+ #Sistema Disponibiliza
+ O ** Disponibiliza** é uma plataforma desenvolvida para facilitar a gestão e o cadastro de cursos, servindo como uma ponte efeciente entre oferta entre a ofertas de ensino e os interessados . 
+
+ #Objetivo 
+ Centralizar as informacões de cursos  diponíveis em um único lugar, garantindo organização e fácil acesso aos dados.
+
+"Funcionalidades do Cadastro
+Para cada curso registrado no "Diponibiliza", o sistema aramazena: 
+**Nome:** Título oficial doc curso.
+***Carga Horária.** Duração total (ex: 40h,120h).
+**Descrição:** REsumo do que será aprendido.
