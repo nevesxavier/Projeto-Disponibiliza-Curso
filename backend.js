@@ -9,7 +9,7 @@ function adicionarCurso(nome, cargaHoraria, descricao) {
     console.log("Curso adicionado com sucesso!");
 }
 funtion listarCursos() {
-    console.log("Lista de cursos da Disponibiliza Curso:");
+    console.log("Lista de cursos na empresa Disponibiliza Curso:");
     cursos.forEach((curso, index) => {
         console.log('${index + 1} - ${curso.nome} (${curso.cargaHoraria}h)');
     });
