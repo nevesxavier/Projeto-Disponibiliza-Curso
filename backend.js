@@ -6,7 +6,7 @@ function adicionarCurso(nome, cargaHoraria, descricao) {
         descricao
     };
     cursos.push(curso);
-    console.log("Curso adicionado!");
+    console.log("Curso adicionado com sucesso!");
 }
 funtion listarCursos() {
     console.log("Lista de cursos da Disponibiliza Curso:");
