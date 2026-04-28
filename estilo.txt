@@ -1,0 +1,19 @@
+--- GUIA DE IDENTIDADE VISUAL DO SISTEMA ---
+
+1. PALETA DE CORES:
+- Cor Principal: Azul Escuro (#003366) - Para o cabeçalho e botões.
+- Cor Secundária: Cinza Claro (#F4F4F4) - Para o fundo da página.
+- Cor de Destaque: Laranja (#FF8C00) - Para alertas e avisos.
+
+2. TIPOGRAFIA:
+- Títulos: Fonte "Roboto" ou "Arial", tamanho 24px, negrito.
+- Textos e tabelas: Fonte "Open Sans", tamanho 16px.
+
+3. LAYOUT (ESTRUTURA):
+- O cabeçalho deve ficar fixo no topo.
+- A tabela de cursos deve ocupar 80% da largura da tela.
+- Os botões devem ter bordas levemente arredondadas (5px).
+
+4. ELEMENTOS VISUAIS:
+- Adicionar o logo do SENAI no canto superior esquerdo.
+- Usar ícones de "Lápis" para editar e "Lixeira" para excluir cursos.
