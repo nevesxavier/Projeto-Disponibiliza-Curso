@@ -9,3 +9,9 @@ Para cada curso registrado no "Diponibiliza", o sistema aramazena:
 **Nome:** Título oficial doc curso.
 ***Carga Horária.** Duração total (ex: 40h,120h).
 **Descrição:** REsumo do que será aprendido.
+
+##Regras de Versão (GIT)
+* As aletrações de código devem ser padronizadas.
+*Revisão obrigatória pelo Participante e antes do merge na `main´.
+---
+(* Atividade Prática Senai - 2026)
